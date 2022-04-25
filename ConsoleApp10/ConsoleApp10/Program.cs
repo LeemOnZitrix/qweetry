@@ -13,16 +13,17 @@ namespace ConsoleApp10
             int n = 0;
             if(n == 0)
             {
-                Console.WriteLine();
+                Console.WriteLine("XXD");
                 return;
             }
             else
             {
-                Console.WriteLine("dsad");
+                Console.WriteLine("dupa");
             }
             for(int i = 0; i < n; i++)
             {
-                Console.WriteLine("adasdadas");
+                Console.WriteLine("evolve chuj");
+                Console.WriteLine("boosted tez");
             }
         }
     }

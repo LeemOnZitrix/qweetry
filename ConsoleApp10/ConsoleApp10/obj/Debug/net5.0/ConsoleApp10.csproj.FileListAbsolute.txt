@@ -1,0 +1,16 @@
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.exe
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.deps.json
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.runtimeconfig.json
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.runtimeconfig.dev.json
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.dll
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ref\ConsoleApp10.dll
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\bin\Debug\net5.0\ConsoleApp10.pdb
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.csproj.AssemblyReference.cache
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.AssemblyInfoInputs.cache
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.AssemblyInfo.cs
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.dll
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ref\ConsoleApp10.dll
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.pdb
+C:\Users\dasad\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net5.0\ConsoleApp10.genruntimeconfig.cache

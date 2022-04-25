@@ -18,10 +18,12 @@ namespace ConsoleApp10
             }
             else
             {
-                Console.WriteLine("ds3123211312312ad");
+                Console.WriteLine("dupa");
             }
             for(int i = 0; i < n; i++)
             {
+                Console.WriteLine("evolve chuj");
+                Console.WriteLine("boosted tez");
                 Console.WriteLine("3213412412421");
                 Console.WriteLine("32131213");
                 Console.WriteLine("12324rt25rtg");
